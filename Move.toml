@@ -5,10 +5,9 @@ authors = []
 
 [addresses]
 
-spike_staking = "0x224845715d4011c341443424d5aa362fa59a1002396b8e742c5e27a6be4b645a"
-stake_emergency_admin = "0x224845715d4011c341443424d5aa362fa59a1002396b8e742c5e27a6be4b645a"
-SPICY = "0x224845715d4011c341443424d5aa362fa59a1002396b8e742c5e27a6be4b645a"
-lp_treasury = "0x224845715d4011c341443424d5aa362fa59a1002396b8e742c5e27a6be4b645a"
+spike_staking = "0x3045d27b5fada1e30897a741fb184e48ef0bff3717aea23918ebc1e5c7153083"
+stake_emergency_admin = "0x3045d27b5fada1e30897a741fb184e48ef0bff3717aea23918ebc1e5c7153083"
+THANK = "0x3045d27b5fada1e30897a741fb184e48ef0bff3717aea23918ebc1e5c7153083"
 
 [dev-addresses]
 
@@ -28,4 +27,3 @@ rev = "dev"
 subdir = "aptos-move/framework/aptos-token"
 
 [dev-dependencies]
-
